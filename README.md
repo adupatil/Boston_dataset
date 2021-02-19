@@ -1,10 +1,12 @@
 # Boston_dataset
 Dependancies:
-scikit learn
-numpy
-pandas
-matplotlib
-seaborn
+<ol>
+  <li>scikit learn</li>
+  <li>numpy</li>
+  <li>pandas</li>
+  <li>matplotlib</li>
+  <li>seaborn</li>
+</ol>
 <br>
 <h1>Goal</h1>
 Predicting value of house in boston given certain parameters
