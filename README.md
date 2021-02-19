@@ -5,9 +5,9 @@ numpy
 pandas
 matplotlib
 seaborn
-
-#Goal
+<br>
+<h1>Goal</h1>
 Predicting value of house in boston given certain parameters
 
-#Dataset used
+<h1>Dataset used</h1>
 boston dataset from scikit learn
